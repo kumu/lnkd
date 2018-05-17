@@ -1,0 +1,50 @@
+{
+  "name": "lnkd",
+  "version": "0.0.1",
+  "description": "Graph transformation toolkit",
+  "main": "dist/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumu/lnkd.git"
+  },
+  "keywords": [
+    "graph",
+    "networks",
+    "node",
+    "edge",
+    "toolkit",
+    "kumu"
+  ],
+  "author": "Ryan Mohr",
+  "license": "SEE LICENSE",
+  "bugs": {
+    "url": "https://github.com/kumu/lnkd/issues"
+  },
+  "homepage": "https://github.com/kumu/lnkd#readme",
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "jest": "^22.4.3",
+    "ts-jest": "^22.4.4",
+    "typescript": "^2.8.3"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.tsx?$": "ts-jest"
+    },
+    "testRegex": "src/.*test\\.ts$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
+}
