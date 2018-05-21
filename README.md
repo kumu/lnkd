@@ -119,4 +119,4 @@ Should we have built-in field indexing? Or is edge indexing enough?
 - [sigmajs](https://github.com/jacomyal/sigma.js/wiki/Graph-API)
 - [networkx](https://networkx.github.io/documentation/latest/reference/introduction.html) [MultiDiGraph](https://networkx.github.io/documentation/latest/reference/classes/multidigraph.html)
 - [SNAP](https://snap.stanford.edu/snap/quick.html)
-- [dagoba](https://github.com/dxnn/dagoba/blob/master/dagoba.js)
+- [dagoba](https://github.com/dxnn/dagoba/blob/master/dagoba.js) [notes](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
